@@ -1,3 +1,5 @@
+# BOJ 2864 5와 6의 차이
+
 first, second = map(int, input().split())
 
 first_list = list(map(int, str(first)))

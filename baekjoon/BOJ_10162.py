@@ -1,3 +1,5 @@
+# BOJ 10162 전자레인지
+
 T = int(input())
 
 time_list = [300, 60, 10]

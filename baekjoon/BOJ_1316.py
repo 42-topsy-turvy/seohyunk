@@ -1,3 +1,5 @@
+# BOJ 1316 그룹 단어 체커
+
 N = int(input())
 
 continuous_word = 0

@@ -1,4 +1,5 @@
-# 백준 10988 팰린드롬인지 확인하기
+# BOJ 10988 팰린드롬인지 확인하기
+
 word = input()
 len = len(word)
 Palindrome = False

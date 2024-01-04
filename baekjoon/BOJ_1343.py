@@ -1,4 +1,5 @@
-'''폴리오미노'''
+# BOJ 1343 폴리오미노
+
 Board = input()
 
 Board = Board.replace('XXXX', 'AAAA')
