@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0c6f390-63d6-4802-88fc-7f3ae9fcda9f" name="Changes" comment="feat">
+      <change beforePath="$PROJECT_DIR$/baekjoon/BJ_1417.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/BJ_1417.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/BJ_1439.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/BJ_1439.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/BOJ_1463.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/BOJ_1463.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmars/더_맵게.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmars/더_맵게.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/softeer/성적_평균.py" beforeDir="false" afterPath="$PROJECT_DIR$/softeer/성적_평균.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NaFdExS4bQgWz3pTlCk3kix41M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kimseohyun/Desktop/seohyunk&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Python&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0c6f390-63d6-4802-88fc-7f3ae9fcda9f" name="Changes" comment="" />
+      <created>1679894371803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679894371803</updated>
+      <workItem from="1679894373142" duration="228000" />
+      <workItem from="1679894608322" duration="1429000" />
+      <workItem from="1679989499447" duration="9797000" />
+      <workItem from="1680179045493" duration="14026000" />
+      <workItem from="1680315810399" duration="2173000" />
+      <workItem from="1680319912832" duration="14000" />
+      <workItem from="1680369987068" duration="467000" />
+      <workItem from="1680530770301" duration="903000" />
+      <workItem from="1680566498076" duration="11661000" />
+      <workItem from="1681259181830" duration="616000" />
+      <workItem from="1681266281030" duration="8000" />
+      <workItem from="1681777709443" duration="10877000" />
+      <workItem from="1682341486067" duration="32700000" />
+      <workItem from="1684302212322" duration="1272000" />
+      <workItem from="1685276980442" duration="3644000" />
+      <workItem from="1685512731115" duration="1200000" />
+      <workItem from="1685599856026" duration="839000" />
+      <workItem from="1687966948196" duration="5078000" />
+      <workItem from="1690529170573" duration="3411000" />
+      <workItem from="1693231381171" duration="897000" />
+      <workItem from="1693877073118" duration="2536000" />
+      <workItem from="1694335208885" duration="2000" />
+      <workItem from="1694335282548" duration="6000" />
+      <workItem from="1694354404806" duration="5468000" />
+      <workItem from="1694999259397" duration="610000" />
+      <workItem from="1695916077756" duration="1376000" />
+      <workItem from="1696169204122" duration="3401000" />
+      <workItem from="1704120821446" duration="54080000" />
+      <workItem from="1705129904941" duration="1744000" />
+      <workItem from="1705765158130" duration="1839000" />
+      <workItem from="1705820014291" duration="16592000" />
+      <workItem from="1706103036625" duration="3359000" />
+      <workItem from="1706142658642" duration="22560000" />
+      <workItem from="1706969788859" duration="39000" />
+      <workItem from="1707140986391" duration="2228000" />
+      <workItem from="1707885695834" duration="6000" />
+      <workItem from="1707916778406" duration="3970000" />
+      <workItem from="1708350103838" duration="2011000" />
+      <workItem from="1708558974329" duration="6690000" />
+      <workItem from="1708921366846" duration="5669000" />
+      <workItem from="1709303964889" duration="95000" />
+      <workItem from="1710142844561" duration="6000" />
+      <workItem from="1710576803628" duration="4781000" />
+      <workItem from="1710602645735" duration="192000" />
+    </task>
+    <task id="LOCAL-00001" summary="Baekjoon 2720 세탁소 사장 동혁&#10;#그리디_알고리즘&#10;#Greedy_Algorithm">
+      <created>1680088456058</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680088456058</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Baekjoon 10162 전자레인지&#10;#그리디_알고리즘&#10;#Greedy_Algorithm">
+      <created>1680151602201</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680151602201</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Baekjoon 2864 5와 6의 차이&#10;#그리디_알고리즘&#10;#Greedy_Algorithm">
+      <created>1680316432767</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680316432767</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Baekjoon 5585 [거스름돈]&#10;#그리디_알고리즘&#10;#Greedy_Algorithm">
+      <created>1680319427577</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680319427577</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Baekjoon 14487 [욱제는 효도쟁이야!]&#10;#그리디_알고리즘&#10;#Greedy_Algorithm">
+      <created>1680567549846</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680567549846</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Baekjoon 22864 [피로도]&#10;#그리디_알고리즘&#10;#Greedy_Algorithm">
+      <created>1680574830581</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680574830581</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Baekjoon 2810 [컵홀더]&#10;#그리디_알고리즘&#10;#Greedy_Algorithm">
+      <created>1682354834728</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1682354834728</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Baekjoon 4796 [캠핑]&#10;#그리디_알고리즘&#10;#Greedy_Algorithm">
+      <created>1682354901256</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682354901256</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Baekjoon 1789 [수들의 합]&#10;#그리디_알고리즘&#10;#Greedy_Algorithm">
+      <created>1682927241023</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1682927241023</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Baekjoon 1343 [폴리오미노]&#10;#그리디_알고리즘&#10;#Greedy_Algorithm">
+      <created>1684144503657</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1684144503657</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Baekjoon 1041 [주사위]&#10;#그리디_알고리즘&#10;#Greedy_Algorithm">
+      <created>1688432645724</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1688432645724</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Solving Algorithm Repo">
+      <created>1690531171532</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1690531171532</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Solving Algorithm Repo">
+      <created>1690531350579</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1690531350579</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Baekjoon 2720 세탁소 사장 동혁&#10;#그리디_알고리즘&#10;#Greedy_Algorithm" />
+    <MESSAGE value="Baekjoon 10162 전자레인지&#10;#그리디_알고리즘&#10;#Greedy_Algorithm" />
+    <MESSAGE value="Baekjoon 2864 5와 6의 차이&#10;#그리디_알고리즘&#10;#Greedy_Algorithm" />
+    <MESSAGE value="Baekjoon 5585 [거스름돈]&#10;#그리디_알고리즘&#10;#Greedy_Algorithm" />
+    <MESSAGE value="Baekjoon 14487 [욱제는 효도쟁이야!]&#10;#그리디_알고리즘&#10;#Greedy_Algorithm" />
+    <MESSAGE value="Baekjoon 22864 [피로도]&#10;#그리디_알고리즘&#10;#Greedy_Algorithm" />
+    <MESSAGE value="Baekjoon 2810 [컵홀더]&#10;#그리디_알고리즘&#10;#Greedy_Algorithm" />
+    <MESSAGE value="Baekjoon 4796 [캠핑]&#10;#그리디_알고리즘&#10;#Greedy_Algorithm" />
+    <MESSAGE value="Baekjoon 1789 [수들의 합]&#10;#그리디_알고리즘&#10;#Greedy_Algorithm" />
+    <MESSAGE value="Baekjoon 1343 [폴리오미노]&#10;#그리디_알고리즘&#10;#Greedy_Algorithm" />
+    <MESSAGE value="Baekjoon 1041 [주사위]&#10;#그리디_알고리즘&#10;#Greedy_Algorithm" />
+    <MESSAGE value="Solving Algorithm Repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solving Algorithm Repo" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/baekjoon/BOJ_15903.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/seohyunk$.coverage" NAME="큰수의법칙 Coverage Results" MODIFIED="1706800094538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테" />
+    <SUITE FILE_PATH="coverage/seohyunk$H_Index.coverage" NAME="H_Index Coverage Results" MODIFIED="1708922258856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programmars" />
+    <SUITE FILE_PATH="coverage/seohyunk$BJ_2720.coverage" NAME="BJ_2720 Coverage Results" MODIFIED="1680024939997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/seohyunk$BOJ_15903.coverage" NAME="BOJ_15903 Coverage Results" MODIFIED="1708611008750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon" />
+    <SUITE FILE_PATH="coverage/seohyunk$BOJ_2164.coverage" NAME="BOJ 2164 Coverage Results" MODIFIED="1704355148573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon" />
+    <SUITE FILE_PATH="coverage/seohyunk$BOJ_25192.coverage" NAME="BOJ_25192 Coverage Results" MODIFIED="1704643276727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon" />
+    <SUITE FILE_PATH="coverage/seohyunk$BJ_10162.coverage" NAME="BJ_10162 Coverage Results" MODIFIED="1680184925243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/seohyunk$BJ_4796.coverage" NAME="BJ_4796 Coverage Results" MODIFIED="1682227602493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/seohyunk$BOJ_9009.coverage" NAME="BOJ_9009 Coverage Results" MODIFIED="1710602804385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon" />
+    <SUITE FILE_PATH="coverage/seohyunk$BOJ_1037.coverage" NAME="BOJ_1037 Coverage Results" MODIFIED="1704440409338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon" />
+    <SUITE FILE_PATH="coverage/seohyunk$BJ_1789.coverage" NAME="BJ_1789 Coverage Results" MODIFIED="1682927175552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/seohyunk$BJ_11866.coverage" NAME="BJ_11866 Coverage Results" MODIFIED="1704165317152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon" />
+    <SUITE FILE_PATH="coverage/seohyunk$BJ_2864.coverage" NAME="BJ_2864 Coverage Results" MODIFIED="1680316344280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/seohyunk$BJ_1417.coverage" NAME="BJ_1417 Coverage Results" MODIFIED="1684203149099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/seohyunk$BJ_1041.coverage" NAME="BJ_1041 Coverage Results" MODIFIED="1682596733261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/seohyunk$BJ_1343.coverage" NAME="BJ_1343 Coverage Results" MODIFIED="1684143934688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/seohyunk$BJ_14720.coverage" NAME="BJ_14720 Coverage Results" MODIFIED="1680186580281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/seohyunk$dict.coverage" NAME="dict Coverage Results" MODIFIED="1706105399061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon" />
+    <SUITE FILE_PATH="coverage/seohyunk$BJ_22864.coverage" NAME="BJ_22864 Coverage Results" MODIFIED="1680574705833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/seohyunk$BOJ_10994.coverage" NAME="BOJ_10994 Coverage Results" MODIFIED="1706014409223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon" />
+    <SUITE FILE_PATH="coverage/seohyunk$BOJ_2309.coverage" NAME="BOJ_2309 Coverage Results" MODIFIED="1704712439609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon" />
+    <SUITE FILE_PATH="coverage/seohyunk$BJ_11034.coverage" NAME="BJ_11034 Coverage Results" MODIFIED="1680184599996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/seohyunk$BOJ_1021.coverage" NAME="BOJ_1021 Coverage Results" MODIFIED="1707918530667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon" />
+    <SUITE FILE_PATH="coverage/seohyunk$BJ_14487.coverage" NAME="BJ_14487 Coverage Results" MODIFIED="1680567461599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/seohyunk$BJ_2810.coverage" NAME="BJ_2810 Coverage Results" MODIFIED="1682224170186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/seohyunk$BOJ_10773.coverage" NAME="BOJ_10773 Coverage Results" MODIFIED="1704350043144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon" />
+    <SUITE FILE_PATH="coverage/seohyunk$BJ_17224.coverage" NAME="BJ_17224 Coverage Results" MODIFIED="1682353908447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/seohyunk$BOJ_26069.coverage" NAME="BOJ_26069 Coverage Results" MODIFIED="1704530401756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon" />
+    <SUITE FILE_PATH="coverage/seohyunk$BOJ_9012.coverage" NAME="BOJ_9012 Coverage Results" MODIFIED="1704679348080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon" />
+    <SUITE FILE_PATH="coverage/seohyunk$BOJ_13699.coverage" NAME="BOJ_13699 Coverage Results" MODIFIED="1706065134113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon" />
+    <SUITE FILE_PATH="coverage/seohyunk$BOJ_1463.coverage" NAME="BOJ_1463 Coverage Results" MODIFIED="1706194931942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon" />
+    <SUITE FILE_PATH="coverage/seohyunk$BJ_5585.coverage" NAME="BJ_5585 Coverage Results" MODIFIED="1680319341039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/seohyunk$BOJ_17478.coverage" NAME="BOJ_17478 Coverage Results" MODIFIED="1705765557657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon" />
+  </component>
+</project>
