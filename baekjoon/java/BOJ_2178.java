@@ -1,3 +1,5 @@
+// BOJ 2178 미로
+
 package baekjoon.java;
 
 import java.util.*;
