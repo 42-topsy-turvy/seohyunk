@@ -10,11 +10,8 @@ nums = list(map(int, input().rstrip().split()))
 cards.sort()
 result = []
 def count_bi(nums, value):
-    ri = bisect(nums, value)
-    if ri != 0:
-        return ri - bisect_left(nums, value)
-    else:
-        return 0;
+    return bisect(nums, value) - bisect_left(nums, value)
+
 
 for num in nums:
     result.append(count_bi(cards, num))
