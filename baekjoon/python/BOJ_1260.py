@@ -3,7 +3,7 @@ from collections import deque
 import sys
 
 def DFS(dictionary, start):
-    visited = []
+    visited = []    # set 선언
     def dfs_recursive(node):
         if node not in visited:
             visited.append(node)
@@ -12,8 +12,8 @@ def DFS(dictionary, start):
     dfs_recursive(start)
     return visited
 
-def BFS(dictionary, start):
-    visited = []
+def BFS(dictionary, start): 
+    visited = []    # set 선언
     queue = deque()
 
     queue.append(start)
@@ -23,7 +23,7 @@ def BFS(dictionary, start):
         if node not in visited:
             visited.append(node)
             if node in dictionary:
-                queue.extend(sorted(dictionary[node]))  
+                queue.extend(sorted(dictionary[node]))  # 미리 dict 정렬
     return visited
 
 def main():
@@ -36,7 +36,9 @@ def main():
     
     for _ in range(M):
         node1, node2 = map(int, sys.stdin.readline().split())
+        # 1 2
         node_dict.setdefault(node1, []).append(node2)
+        # node_dict = {1: }
         node_dict.setdefault(node2, []).append(node1)
         # setdefault(키 값, 값)
         # 키 값이 있다면 키 값 반환, 없다면 두 번째 인자 반환
