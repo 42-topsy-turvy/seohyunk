@@ -40,7 +40,7 @@ def BFS(graph, row, column):
     return visited[row - 1][column - 1]
 
 def main():
-    N, M = map(int, sys.stdin.readline().split())
+    N, M = map(int, sys.stdin.readline().rstrip().split())
     # maze = []
 
     # for _ in range(N):
