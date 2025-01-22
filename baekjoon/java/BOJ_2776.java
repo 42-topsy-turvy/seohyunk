@@ -1,3 +1,4 @@
+// BOJ 2776 암기왕
 package baekjoon.java;
 
 import java.io.BufferedReader;
