@@ -33,7 +33,6 @@ def BFS(row, col, map):
             #if not visited[ni][nj] and map[ni][nj] == 1 and 0 <= ni < row and 0 <= nj < col:
             if 0 <= ni < row and 0 <= nj < col and not visited[ni][nj] and map[ni][nj] == 1:
                 queue.append((ni, nj))
-                queue.append((ni, nj))
                 visited[ni][nj] = True
                 result[ni][nj] = result[i][j] + 1
             # if 0 <= ni < row and 0 <= nj < col and not visited[ni][nj] and map[ni][nj] == 0:
