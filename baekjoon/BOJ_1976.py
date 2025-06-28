@@ -22,15 +22,11 @@ def main():
     M = int(input())
     connections = [list(map(int, input().split())) for _ in range(N)]
     plans = list(map(int, input().split()))
-
-    for i in range(len(plans)):
-        plans[i] -= 1
+    
+    plans = [p - 1 for p in plans]
     
     connected = BFS(connections, plans[0])
-    for plan in plans:
-        if not connected[plan]:
-            return 'NO'
-    
-    return 'YES'
+    return 'YES' if all(connected[plan] for plan in plans) else 'NO'
+
 if __name__=='__main__':
     print(main())
